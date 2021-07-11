@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irene-miao, a novice Web Developer
 - 👀 I’m interested in learning about Kotlin, Laravel, React, Cloud, Web Development and more..
-- 🌱 I’m currently learning React and React Native..
+- 🌱 I’m currently learning ReactJS and React Native..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
